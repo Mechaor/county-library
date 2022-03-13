@@ -49,7 +49,7 @@ void execute_action(int action)
             printf("view all patrons\n");
             break;
         case 3:
-            printf("add new resources\m");
+            printf("add new resources\n");
             break; 
         case 4:
             printf("view all resources");
